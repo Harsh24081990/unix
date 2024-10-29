@@ -1,6 +1,5 @@
 
 UNIX COMMANDS
-``` shell
 1. $ LOGNAME		: It displays the current user information
 2. $PWD			: present working directory
 3. $DATE			: It displays the system date & time
@@ -1711,6 +1710,3 @@ Advanced Features of JAVA
 Improved internal Architecture related to JAVA
 Supports XML. 
 
-
-
-```
